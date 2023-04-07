@@ -29,7 +29,7 @@ def lucas(n) :
 def sum_series(n, first1=0, second2=1) :
     """
     Calling this function with no optional parameters will produce numbers from the fibonacci series. Calling it with the optional arguments 2 and 1 will produce values from the lucas numbers.
-    Args:
+    arguments:
         n (integer): The index of the number in the sequence.
         first (integer, optional): The first number in the sequence. Defaults to 0.
         second (integer, optional): The second number in the sequence. Defaults to 1.
